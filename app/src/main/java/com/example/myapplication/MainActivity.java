@@ -9,6 +9,8 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 
+
+//pippozzo
 public class MainActivity extends AppCompatActivity {           //creiamo una nuova classe MainActivity che estende AppCompatActivity
 
     @Override                                                   //riscrittura del metodo ereditato da AppCompatActivity
